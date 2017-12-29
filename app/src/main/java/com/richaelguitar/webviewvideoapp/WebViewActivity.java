@@ -28,7 +28,7 @@ import com.richaelguitar.webviewvideoapp.service.WebViewService;
 
 public class WebViewActivity extends AppCompatActivity {
 
-    public static final String URL = "https://my.tv.sohu.com/pl/9058124/96333096.shtml";
+    public static final String URL = "http://m.360kad.com/jknews/jksc/sp/3791433.shtml";
 
     private WebView webView;
     private Toolbar toolbar;
